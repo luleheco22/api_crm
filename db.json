@@ -1,0 +1,20 @@
+{
+  "clientes": [
+    {
+      "nombre": "Debian",
+      "empresa": "Linux",
+      "email": "cvx.eaguilera@gmail.com",
+      "telefono": "+584147896525",
+      "notas": "Cliente millonario",
+      "id": 2
+    },
+    {
+      "nombre": "Jeisen",
+      "empresa": "JavaCorp",
+      "email": "llluis665@gmail.com",
+      "telefono": "646846513868",
+      "notas": "CLientes potentes",
+      "id": 4
+    }
+  ]
+}
